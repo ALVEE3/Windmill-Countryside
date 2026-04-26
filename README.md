@@ -8,7 +8,7 @@ An animated 2D countryside scene built with **C++ and OpenGL (GLUT/GLU)**. The s
 
 | Day Mode | Night Mode |
 |----------|------------|
-| ![Day Mode](https://drive.google.com/uc?export=view&id=14cLsdcCnwFmeT6_u1uwRrNhtv9CRW44u) | ![Night Mode](https://github.com/ALVEE3/Windmill-Countryside/blob/main/Img/Screenshot%202026-04-27%20051823.png?raw=true) |
+| ![Day Mode](https://github.com/ALVEE3/Windmill-Countryside/blob/main/Img/Screenshot%202026-04-27%20051856.png?raw=true) | ![Night Mode](https://github.com/ALVEE3/Windmill-Countryside/blob/main/Img/Screenshot%202026-04-27%20051823.png?raw=true) |
 
 ---
 
